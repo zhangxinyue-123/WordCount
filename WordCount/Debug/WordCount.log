@@ -1,0 +1,5 @@
+﻿  WordCount.c
+C:\Users\86173\source\repos\WordCount\WordCount.c(24,12): warning C4013:  “strcmp”未定义；假设外部返回 int
+C:\Users\86173\source\repos\WordCount\WordCount.c(11,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+  WordCount.vcxproj -> C:\Users\86173\source\repos\WordCount\Debug\WordCount.exe
