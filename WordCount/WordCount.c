@@ -27,7 +27,7 @@ int main(int args, char *argv[])
 	}
 	else if(strcmp(argv[1], "-w") == 0)
 	{
-		printf("单词数:%d\n", n+1);
+		printf("单词数：%d\n", n+1);
 	}
 	return 0;
 }
